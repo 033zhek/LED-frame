@@ -124,7 +124,7 @@ void setup() {
   EEPROM.begin(EEPROM_SIZE);
   Serial.begin(115200);
   Serial.println();
-  Serial.println("Configuring access point...")
+  Serial.println("Configuring access point...");
   delay(3000);
   WiFi.mode(WIFI_AP_STA);
   WiFi.softAP(my_ssid, my_password);
