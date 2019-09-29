@@ -1,2 +1,3 @@
 # LED-frame
-Photo frame with LED illumination on ESP32 using Arduino Core
+Photo frame with LED illumination on ESP8266 using Arduino Core
+LED mods by AlexGyver
